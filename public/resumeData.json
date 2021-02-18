@@ -1,0 +1,128 @@
+{
+    "main": {
+        "name": "Anil Ghimire",
+        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "image": "profilepic.jpg",
+        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "anilghimire.ccny@gmail.com",
+        "phone": "3474507026",
+        "github": "https://github.com/ghimireanil",
+        "project": "https://github.com/",
+        "address": {
+            "street": "Chamber St.)",
+            "city": "New York",
+            "state": "New York"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://github.com/ghimireanil",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/ghimireanil",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "City College of New York University?",
+                "degree": "B.E. in Mechanical Engineering",
+                "graduated": "May 2020",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "LaGuardia Community College",
+                "degree": "A.S in Mechanical Engineering",
+                "graduated": "December 2017",
+                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+            }
+        ],
+        "work": [
+            {
+                "company": "Algorizin",
+                "title": "Full Stack Developer Intern",
+                "years": "September 2020 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department of Sanitation NY",
+                "title": "Engineering Intern",
+                "years": "September 2019- May 2020",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "level": "60%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "75%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "70%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "Node",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Chat box",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Food App",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Covid Tracker",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "BlogPost",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
