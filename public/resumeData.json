@@ -3,8 +3,8 @@
     "name": "Anil Ghimire",
     "description": "I'm Full Stack Web developer and I mainly use the MERN stack",
     "image": "profilepic.jpg",
-    "bio": "I love design and innovation of products that makes peoples life convenient. From my early childhood, I was fascinated by the working mechanism and innovation of technologies like car, airplane and cell phone. Since then, I wanted to be someone who works for the design and innovation of such products. It seemed like an appropriate dream given that I graduated with BE in Mechanical Engineering. I gravitated towards the design, innovation and improvements of products for the welfare of society. I got chance to work on a project with Department of Sanitation New York(DSNY) for the design improvement of trucks interior. Apart from the experience in Engineering, I yearned to learn more, yearned to learn something related to programming to compete in the era of computer technologies. That’s when it happened; the spark got ignited at the instant I learned my first Java tutorial video. Since then, I can’t get enough of learning programming languages. I learnt HTML,CSS, JavaScript and Linux. Web development at all calls to my passion as it incorporates my creativity and problem-solving skills and moreover I’m allowed to break to improve the code. I love applying different design principles and watch my web pages shrink into different devices. I was oddly satisfied when I published my first web page, but I still keep my creativity flash intact. My specialties include problem solving, responsive design principles, result oriented and quickly learning new skills and programming language. Till now, I have learnt C++, MATLAB, Java, JavaScript, HTML, CSS, Linux and AWS. I have started learning Python and SQL. I’m enthusiastically learning other programming languages and principles that I can incorporate in future.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I love design and innovation of products that makes peoples life convenient. From my early childhood, I was fascinated by the working mechanism and innovation of technologies like car, airplane and cell phone. Since then, I wanted to be someone who works for the design and innovation of such products. It seemed like an appropriate dream given that I graduated with BE in Mechanical Engineering. I gravitated towards the design, innovation and improvements of products for the welfare of society. I got chance to work on a project with Department of Sanitation New York(DSNY) for the design improvement of trucks interior. Apart from the experience in Engineering, I yearned to learn more, yearned to learn something related to programming to compete in the era of computer technologies. That’s when it happened; the spark got ignited at the instant I learned my first Java tutorial video. Since then, I can’t get enough of learning programming languages. I learnt HTML,CSS, JavaScript and Linux. Web development at all calls to my passion as it incorporates my creativity and problem-solving skills and moreover I’m allowed to break to improve the code. I love applying different design principles and watch my web pages shrink into different devices. I was oddly satisfied when I published my first web page, but I still keep my creativity flash intact. My specialties include problem solving, responsive design principles, result oriented and quickly learning new skills and programming language. Till now, I have learnt C++, MATLAB, Java, JavaScript, React, Node, Express, SQL, MongoDB, HTML, CSS and AWS. I’m enthusiastically learning other programming languages and principles that I can incorporate in future.",
+    "contactmessage": " Fell free to reach out to me for any query",
     "email": "anilghimire.ccny@gmail.com",
     "phone": "347-450-7026",
     "github": "https://github.com/ghimireanil",
@@ -15,27 +15,22 @@
       "state": "NY"
     },
     "website": "https://github.com/",
-    "resumedownload": "https://drive.google.com/file/d/1nNQKEUnnWk96drZi9WaBNiOVjG-1IpIq/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/14HuCJJ5tZwBIHrM1zLnbp4-n0hGo-LhZ/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/anilghimire95/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "twitter",
         "url": "https://twitter.com/ghimireani",
         "className": "fa fa-twitter"
       },
       {
-        "name": "linkedin",
-        "url": "https://github.com/ghimireanil",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
         "url": "https://www.instagram.com/ghimireani/",
         "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://github.com/ghimireanil",
+        "className": "fa fa-linkedin"
       },
       {
         "name": "github",
@@ -49,22 +44,22 @@
     "education": [
       {
         "school": "The City College of New York",
-        "degree": "B.E. in Mechanical Engineering",
+        "degree": "B.S. in Engineering",
         "graduated": "May 2020",
         "description": "Excelled in courses like C++, Numerical Methods, Calculus, Statistics, Dynamics and was awarded Dean’s list for Fall 2018, Spring 2019, Fall 2019"
-      },
-      {
-        "school": "LaGuardia Community College",
-        "degree": "A.S in Mechanical Engineering",
-        "graduated": "December 2017",
-        "description": "Awarded Dean’s list for Spring 2016, Fall 2016, Spring 2017, Fall 2017 and Recipient of LaGuardia Foundation Scholarship, 2016-2017"
       }
     ],
     "work": [
       {
+        "company": "US Energy Group",
+        "title": "Software Engineer",
+        "years": "March 2021 - Present",
+        "description": "Provide object-oriented software design for the energy management industry's leading platform. Developed and mobilized software for the diverse client based software. Contributed software engineering expertise in the development of products through software development lifecycle, from the requirements definition through successful deployment"
+      },
+      {
         "company": "Algorizin",
-        "title": "Full Stack Web Developer Intern",
-        "years": "September 2020 - Present",
+        "title": "Junior Full Stack Web Developer",
+        "years": "June 2020 - Present",
         "description": "Developed a mobile app known as “Nudge”, which is particularly dedicated for the alumni network and designed for professional career advisement; it authenticates users based on colleges and grants them access to video conferencing, meetings scheduler, and sending texts"
       },
       {
@@ -77,22 +72,38 @@
     "skills": [
       {
         "name": "Java",
-        "level": "70%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
         "level": "90%"
       },
       {
-        "name": "ReactJs",
-        "level": "85%"
+        "name": "Spring",
+        "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "React JS",
         "level": "90%"
       },
       {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
         "name": "Node",
+        "level": "80%"
+      },
+      {
+        "name": "Express",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "95%"
+      },
+      {
+        "name": "SQL",
         "level": "80%"
       }
     ]
@@ -112,10 +123,10 @@
         "url": "https://github.com/ghimireanil/food-order-app"
       },
       {
-        "title": "Budget Tracker",
-        "category": "Created a budget tracker which list the reansactions by their type and calculate their respective subtotal",
+        "title": "Movie APP",
+        "category": "Created a movie app where user can search for the movie by nave and keep the list of favourite in local storage for user",
         "image": "project3.jpg",
-        "url": "https://github.com/ghimireanil/myWallet-ReactJS"
+        "url": "https://github.com/ghimireanil/Movie-App-ReactJS"
       },
       {
         "title": "Chat box",
